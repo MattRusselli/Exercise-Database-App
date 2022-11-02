@@ -5,11 +5,10 @@ const Home = () => {
 
   return (
     <div className="home-container col">
-      <h1 className="homePage">Click below to go to the exercise</h1>
+      <h1 className="homePage">Welcome to my exercise database app!</h1>
+      <h2>Click below to go to the exercise page!</h2>
       <section className="welcome-signin">
-        <button onClick={() => navigate('/exercise')}>
-          Click Here To Get Started
-        </button>
+        <button onClick={() => navigate('/exercise')}>Click Here!</button>
       </section>
     </div>
   )
