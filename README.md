@@ -1,4 +1,4 @@
-# Workout-Tracker-App
+# Exercise-Database-App
 
 ## Date: 11/2/2022
 
@@ -17,8 +17,6 @@
 ### **_Technologies Used_**
 
 - React JS
-  - Axios for the API call
-- Node JS
 
 ---
 
